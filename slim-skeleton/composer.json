@@ -1,14 +1,14 @@
 {
-    "name": "jetpackstudios/",
-    "description": "A Slim Framework skeleton application for rapid development",
+    "name": "jetpackstudios/muttnick-dev",
+    "description": "A Slim Framework app for creation of websites",
     "keywords": ["microframework", "rest", "router", "psr7"],
     "homepage": "http://github.com/slimphp/Slim-Skeleton",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "email": "info@joshlockhart.com",
-            "homepage": "http://www.joshlockhart.com/"
+            "name": "afroraydude",
+            "email": "afroraydudd@afroraydude.com",
+            "homepage": "http://www.afroraydude.com/"
         }
     ],
     "require": {
