@@ -1,5 +1,8 @@
-# New Afroraydude website
-This is the new website for afroraydude.com
+# Muttnick-dev
+Muttnick alpha git project. 
+
+Muttnick is a Web platform for websites built on Slim Framework purposed to
+be a lightweight, fast, and secure alternative to other PHP platforms.
 
 ## Installation
 
@@ -30,4 +33,4 @@ make it easier for creating and editing pages/posts
 [CommonMark](https://github.com/thephpleague/commonmark) - Turns these edited pages
 into HTML
 
-Software (c) 2017 Afroraydude
+Software (c) 2017 Jetpack Game Studios
