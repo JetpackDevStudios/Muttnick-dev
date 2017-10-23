@@ -1,4 +1,6 @@
 # Muttnick-dev
+version 1.2.9-alpha
+
 Muttnick alpha git project. 
 
 Muttnick is a Web platform for websites built on Slim Framework purposed to
