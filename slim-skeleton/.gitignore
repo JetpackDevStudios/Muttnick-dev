@@ -8,4 +8,5 @@
 !/public/js/*
 !/public/fonts/*
 !/public/bootstrap-4/*
+!/public/themes
 config.php
