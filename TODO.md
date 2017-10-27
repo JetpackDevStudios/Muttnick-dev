@@ -1,6 +1,6 @@
 # Todo List 
 
-0. ***Important to test everything lol***
+0. ***Important to test everything***
 
 1. Finish stuff I started
     - Finish Reset password script
