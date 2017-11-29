@@ -19,7 +19,7 @@ be a lightweight, fast, and secure alternative to other PHP platforms.
 
 1. Install NGINX, PHP7-FPM, and MySQL
 2. Clone the git repo within your root www directory
-3. Replace the default NGINX site config `default` with the file `default` found within the repo
+3. Replace the default NGINX site config `default` with the file `default.nginx` found within the repo
 3. Restart NGINX
 4. Create a MySQL user and database for this site
 5. Visit the site at `http://localhost` and follow the site setup there
