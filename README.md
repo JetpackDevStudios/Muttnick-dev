@@ -4,7 +4,7 @@ version 1.2.9-alpha
 Muttnick alpha git project. 
 
 Muttnick is a Web platform for websites built on Slim Framework purposed to
-be a lightweight, fast, and secure alternative to other PHP platforms.
+be a lightweight and fast alternative to other PHP platforms.
 
 [![Documentation Status](https://readthedocs.org/projects/muttnick-dev/badge/?version=latest)](http://muttnick-dev.readthedocs.io/en/latest/?badge=latest) 
 
